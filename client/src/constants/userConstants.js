@@ -1,0 +1,33 @@
+export const LOGIN_USER = 'LOGIN_USER';
+
+export const REGISTER_USER = 'REGISTER_USER';
+
+export const LOAD_USER = 'LOAD_USER';
+
+export const GET_USERDETAILS = 'GET_USERDETAILS';
+
+export const FOLLOW_USER = 'FOLLOW  _USER';
+
+export const UPDATE_USER = 'UPDATE_USER';
+
+export const DELETE_USER = 'DELETE_USER';
+
+// export const LOAD_USER_REQUEST = "LOAD_USER_REQUEST";
+// export const LOAD_USER_SUCCESS = "LOAD_USER_SUCCESS";
+// export const LOAD_USER_FAIL = "LOAD_USER_FAIL";
+
+// export const GET_USER_REQUEST = "GET_USER_REQUEST";
+// export const GET_USER_SUCCESS = "GET_USER_SUCCESS";
+// export const GET_USER_FAIL = "GET_USER_FAIL";
+
+// export const FOLLOW_USER_REQUEST = "FOLLOW_USER_REQUEST";
+// export const FOLLOW_USER_SUCCESS = "FOLLOW_USER_SUCCESS";
+// export const FOLLOW_USER_FAIL = "FOLLOW_USER_FAIL";
+
+// export const UPDATE_USER_REQUEST = "UPDATE_USER_REQUEST";
+// export const UPDATE_USER_SUCCESS = "UPDATE_USER_SUCCESS";
+// export const UPDATE_USER_FAIL = "UPDATE_USER_FAIL";
+
+// export const DELETE_USER_REQUEST = "DELETE_USER_REQUEST";
+// export const DELETE_USER_SUCCESS = "DELETE_USER_SUCCESS";
+// export const DELETE_USER_FAIL = "DELETE_USER_FAIL";

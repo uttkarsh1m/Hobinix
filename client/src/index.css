@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 0;
+    /* height: 100vh;
+  width: 100vw; */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+        'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+        'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: black;
+}
+*::-webkit-scrollbar {
+    display: none;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
+
+/* reactjs-popup */
+.popup-content {
+    background: transparent !important;
+    border-radius: 12px;
+}
+
+/* material ui & tailwind md are different */
+/* material ui textfield style  */
+/* have to remove passowrd to selectw  */
+/* logoutall device */
+/* photo loading  */
